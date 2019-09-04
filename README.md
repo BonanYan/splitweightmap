@@ -1,6 +1,6 @@
 # SplitWeightMap:
 
-Start with <font color=red>howToUse.ipynb</font>, the jupyter notebook tutorial to use SplitWeightMap function.
+Start with <font color='red'>howToUse.ipynb</font>, the jupyter notebook tutorial to use SplitWeightMap function.
 
 Please refer to our paper:
 
